@@ -528,7 +528,7 @@ export default function WeddingInvitation() {
           <div style={{ background: CARD_BG, border: `1px solid rgba(197,161,90,0.3)`, borderRadius: 20, padding: "32px", display: "inline-block", boxShadow: "0 2px 20px rgba(197,161,90,0.07)" }}>
             {/* QR placeholder */}
             <div style={{ width: 120, height: 120, margin: "0 auto 16px", background: `url(${qrBg}) center/cover`, border: `2px solid rgba(197,161,90,0.4)`, borderRadius: 4, display: "flex", alignItems: "center", justifyContent: "center" }}>
-              <div style={{ fontFamily: "'Cinzel', serif", fontSize: 9, letterSpacing: 2, color: GOLD, textAlign: "center" }}>UPI<br />QR</div>
+              
             </div>
             <div style={{ fontFamily: "'Cinzel', serif", fontSize: 11, letterSpacing: 2, color: TEXT_MUTED }}>9011732439@yescred</div>
           </div>
